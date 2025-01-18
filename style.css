@@ -1,0 +1,48 @@
+body{
+    background-color: black
+    ;
+}
+
+h1{
+    color: darkred;
+    font-family: cursive;
+    font-size: 350%;
+    text-align: center;
+    box-shadow: 0 5px 15px 5px ;
+}
+
+h4{
+    color: darkred;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h2{
+    color: darkred;
+    font-family: cursive;
+    text-align: center;
+}
+
+.boton{
+    background-color: rgb(73, 71, 71);
+    font-size: large;
+    font-size: 24px;
+    border-radius: 10px;
+    border-color: rgb(87, 0, 0);
+    border: solid color;
+    margin-left: 33%;
+    display: inline-block;
+    padding: 11px 35px;
+    text-transform: uppercase;
+}
+
+.boton:hover{
+    background-color: rgb(97, 0, 0);
+    transform: scale(1.1);
+}
+
+.sigma {
+    color: darkorchid;
+    text-align: center;
+}
+
